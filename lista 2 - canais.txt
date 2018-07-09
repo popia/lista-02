@@ -56,9 +56,6 @@ http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/116.ts
 http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/122.ts
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX" tvg-logo="https://i.imgur.com/xKf20wa.png" group-title="Filmes e Series",FOX
 http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/95.ts
-
-
-
 #EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Rede Telecine HBO-Max",Telecine Premium
 http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/18.ts
 #EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Rede Telecine HBO-Max",Telecine Action
@@ -69,8 +66,6 @@ http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/17.ts
 http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/19.ts
 #EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Rede Telecine HBO-Max",Telecine Fun
 http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/20.ts
-
-
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="Esportes",SporTV
 http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/31.ts
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2" tvg-logo="http://i.imgur.com/qpwwQCz.png" group-title="Esportes",SporTV 2
@@ -101,7 +96,5 @@ http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/50.ts
 http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/49.ts
 #EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Mosaico Multijogos" tvg-logo="http://i.imgur.com/XtLMfL5.png" group-title="Premiere",Mosaico Multijogos
 http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/48.ts
-
-
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BandNews" tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="Noticias",BandNews
 http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/126.ts
